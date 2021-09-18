@@ -7,4 +7,4 @@
 
 
 ## About this Project
-a Flutter project that calculates the Body Mass Index(IBM).
+a Flutter project that calculates the Body Mass Index(BMI).
